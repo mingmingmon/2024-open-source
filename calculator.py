@@ -16,3 +16,4 @@ print(f"{num1} - {num2} = {sub_result}")
 print(f"{num1} * {num2} = {mul_result}")
 
 print("feature-branch1") # feature-branch1에서 수정합니다.
+print("feature-branch2") # feature-branch2에서 수정합니다.
